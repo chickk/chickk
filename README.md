@@ -90,7 +90,7 @@ Backend platform for large-scale news processing.
 
 - LinkedIn: https://linkedin.com/in/chiayuchangvt
 - GitHub: https://github.com/chickk
-- Email: chia880507@gmail.com
+- Email: chienccchang@gmail.com
 
 ---
 
