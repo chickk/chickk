@@ -21,7 +21,7 @@ I'm a software engineer passionate about backend systems, distributed services, 
 ## 🚀 About Me
 
 - 🎓 Master of Engineering in Computer Science & Applications @ Virginia Tech
-- 💼 Former Software Engineer @ Mirle Automation
+- 💼 Former Software Engineer @ [Mirle Automation](https://www.mirle.com.tw/en/)
 - 🔭 Building backend services, AI-powered applications, and cloud-native systems
 - 🌱 Learning distributed systems, AWS, and software architecture
 - 🎯 Seeking Software Engineer / Backend Engineer opportunities (New Grad 2026)
